@@ -3,4 +3,6 @@
     <string name="pic_button">Take Picture</string>
     <string name="lock_button">Lock</string>
     <string name="main_image_description">Selfie Image</string>
+    <string name="stop_lock_button">Unlock</string>
+    <string name="lock_image_description">Lock Image</string>
 </resources>
