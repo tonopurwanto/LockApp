@@ -5,4 +5,5 @@
     <string name="main_image_description">Selfie Image</string>
     <string name="stop_lock_button">Unlock</string>
     <string name="lock_image_description">Lock Image</string>
+    <string name="title_activity_locked">LockedActivity</string>
 </resources>
